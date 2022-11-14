@@ -44,14 +44,6 @@
   container: {
     padding: 10,
   },
-    mirror: {
-    padding: 10,
-    fontSize: 42,
-    marginTop: 10,
-    marginBottom:90, 
-    height: 40, 
-    backgroundColor: '#f0f0f0',
-  },
 });
 
  export default App;
